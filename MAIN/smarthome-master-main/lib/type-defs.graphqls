@@ -1,0 +1,8 @@
+type Query {
+  viewer: User!
+  viewerTwitch: Twitch!
+}
+
+type Mutation {
+  updateName(name: String!): User!
+}

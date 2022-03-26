@@ -1,0 +1,2 @@
+# animelist
+ school project

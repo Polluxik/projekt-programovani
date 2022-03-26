@@ -1,0 +1,8 @@
+query viewerTwitch {
+    viewerTwitch{
+        id
+        name
+        followers
+        subscribers
+    }
+}

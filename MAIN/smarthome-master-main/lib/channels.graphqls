@@ -1,0 +1,6 @@
+type Twitch {
+    id: ID!
+    name: String!
+    followers: String!
+    subscribers: String!
+}
